@@ -39,8 +39,8 @@
 1. **Clona el repositorio:**
 
    ```sh
-   git clone https://github.com/ariel323/challenge-literalura.git
-   cd challenge-literalura
+   git clone https://github.com/juan0771/challenge-literalura-juan.git
+   cd challenge-literalura-juan
    ```
 
 2. **Configura la base de datos PostgreSQL:**
